@@ -15,6 +15,8 @@ Guidelines for uploading files:
     * quiz1/quiz2 (If there was no quiz1, and quiz2 was conducted, the paper is still labeled as quiz 2)
     * end
     * papers (All mid1, mid2(if applicable), quizzes and endsems) _(Preferred)_
+    
+    
     `<s>` : Refers to the semester (S for Spring, M for Monsoon. Applicable for courses like SMAI, Database systems etc. that are offered in both semesters
 * `.pdf` files only. If you have `.jpeg` files, put them through software (like CamScanner), and then upload the same.
 
