@@ -1,5 +1,16 @@
 # _IIIT Hyderabad Previous Paper Repository_
 
+⚠️⚠️⚠️⚠️⚠️⚠️
+**An announcement**:
+Hey everyone,
+I had created this repo with the vision that a substantial amount of people would contribute papers to this repo. This did not happen back when I was in college (until 2021, where I was the only one collecting papers and uploading them onto this repo).
+
+However, I'm elated to see that a lot of people have started to contribute of late. However, due to some personal circumstances, I've been in a hectic state of late, and haven't been able to follow up on PRs effectively. I'm looking for 2-3 people who would actively take care of this repo. If anyone would like to be added as a collaborator, please mail me at [vijayraj.shanmugaraj@alumni.iiit.ac.in](mailto:vijayraj.shanmugaraj@alumni.iiit.ac.in) from your IIIT mail. You would just have to make sure that the folder structures and file names of the incoming PRs look good and merge them, and additionally if possible, contribute to the repo. 
+
+Here's to a more comprehensive previous papers repo!
+Vijayraj, UG2k17
+⚠️⚠️⚠️⚠️⚠️⚠️
+
 Guidelines for uploading files:
 
 * Files have been organised into a hierarchy
